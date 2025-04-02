@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✅ assionate about building modern, high-performance websites and web applications.<br>✅ Helping businesses grow online with SEO-friendly and responsive web solutions.<br>✅ Constantly improving my skills in web development and digital marketing.</p>
+<p align="left">✅ Passionate about building modern, high-performance websites and web applications.<br>✅ Helping businesses grow online with SEO-friendly and responsive web solutions.<br>✅ Constantly improving my skills in web development and digital marketing.</p>
 
 ###
 
