@@ -38,7 +38,11 @@
 
 <h3 align="left">My Stats :</h3>
 
-###
+![](https://github-readme-stats.vercel.app/api?username=hamza-ghaydi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=hamza-ghaydi&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-ghaydi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 
 <h4 align="left">📩 Connect with Me  :</h4>
 
@@ -53,4 +57,5 @@
   </a>
 </div>
 
-###
+
+
