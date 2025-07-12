@@ -4,19 +4,19 @@
 
 ###
 
-<h2 align="left">Hamza Rhaidi | Full-Stack Web Developer</h2>
+<h2 align="centre">Hamza Rhaidi | Full-Stack Web Developer</h2>
 
 ###
 
-<p align="left">✅ Passionate about building modern, high-performance websites and web applications.<br>✅ Helping businesses grow online with SEO-friendly and responsive web solutions.<br>✅ Constantly improving my skills in web development and digital marketing.</p>
+<p align="centre">✅ Passionate about building modern, high-performance websites and web applications.<br>✅ Helping businesses grow online with SEO-friendly and responsive web solutions.<br>✅ Constantly improving my skills in web development and digital marketing.</p>
 
 ###
 
-<h3 align="left">Skills & Expertise</h3>
+<h3 align="centre">Skills & Expertise</h3>
 
 ###
 
-<div align="left">
+<div align="centre">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<h3 align="centre">My Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=hamza-ghaydi&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hamza-ghaydi&theme=github_dark_dimmed&hide_border=false)<br/>
@@ -44,11 +44,11 @@
 
 
 
-<h4 align="left">📩 Connect with Me  :</h4>
+<h4 align="centre">📩 Connect with Me  :</h4>
 
 ###
 
-<div align="left">
+<div align="centre">
   <a href="https://www.linkedin.com/in/hamza-rhaidi-34a59125a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
